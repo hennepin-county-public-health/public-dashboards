@@ -7,7 +7,7 @@ The Hepatitis B public dashboard was created using Power BI. It was launched in 
 
 ## Version 4.0.0 (April 2025)
 2023 annual data was added.
-Implemented formatting changes to reflect new county standards, including addition of a home page with information about chronic and acute hepatitis B infection and key trends. Created a unique page for each graph previously depicted on the placemat format and added a data table, a slicer to toggle between years (for applicable pages), a text box to indicate most recent year of data avilable, and a notes section to each data page.
+Implemented formatting changes to reflect new county standards, including addition of a home page with information about chronic and acute hepatitis B infection and key data trends. Created a unique page for each graph previously depicted on the placemat format and added a data table, a slicer to toggle between years (for applicable pages), a text box to indicate most recent year of data avilable, and a notes section.
 
 ## Version 3.0.0 (August 2023)
 2022 annual data was added.
