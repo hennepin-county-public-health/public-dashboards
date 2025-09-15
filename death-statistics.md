@@ -1,5 +1,5 @@
 # Death summary statistics public dashboard
-The Death summary statistics Power BI dashboard was launched in August 2021.
+The Death summary statistics Power BI dashboard was launched in September 2023. It provides detailed data about deaths in Hennepin County and Minnesota that can be useful for reporting.
 
 # Changelog
 ## Version 2.0.0 (2025-XX-XX)
