@@ -6,6 +6,7 @@ The Death summary statistics Power BI dashboard was launched in September 2023. 
 - New data: added 2022 and 2023; removed 2013
 - Added homepage and reformatted "Report info & technical notes"
 - Removed "Cause of death, race detail" page due to change in death data fields beginning in 2022
+- Changed default population 2011-2019 estimates from 2010 Census counts to interpolated counts between the 2010 and 2020 Censuses.
 - Aligned slicers between pages and in some cases reorganized them
 - Small typo and text formatting fixes
 
