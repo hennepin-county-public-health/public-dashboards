@@ -3,7 +3,7 @@ The Hepatitis B public dashboard was created using Power BI. It was launched in 
 
 # Changelog
 ## Version 5.0.0 (2025-09-29)
-2024 annual data was added. Backend formatting changes to better display data suppressed due to low case counts.
+2024 annual data was added. Back end formatting changes to better display data suppressed due to low case counts.
 
 ## Version 4.0.0 (April 2025)
 2023 annual data was added.
