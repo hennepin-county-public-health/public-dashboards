@@ -1,0 +1,9 @@
+# Substance involved emergency and hospital visits public dashboard
+The Substance involved emergency and hospital visits public dashboard was created using Power BI. It was launched in ?? 202?.
+
+# Changelog
+## Version 5.0.0 (2025-11-26)
+2025 year-to-date monthly data through June was updated. Data from June - November 2025 was not included. Some hospital sites were delayed in submitting data into the OMOP system. This caused artificial decreases in counts for certain counties and the metro area overall.
+
+## Version 4.0.0 (2025-09)
+2025 year-to-date monthly data through June was added. Substance categorization changed in 2 instances: 
