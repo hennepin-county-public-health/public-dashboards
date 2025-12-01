@@ -6,4 +6,16 @@ The Substance involved emergency and hospital visits public dashboard was create
 2025 year-to-date monthly data through June was updated. Data from June - November 2025 was not included. Some hospital sites were delayed in submitting data into the OMOP system. This caused artificial decreases in counts for certain counties and the metro area overall.
 
 ## Version 4.0.0 (2025-09)
-2025 year-to-date monthly data through June was added. Substance categorization changed in 2 instances: 
+2025 year-to-date monthly data through June was added. Substance categorization changed in 2 instances, leading to larger counts in both categories:
+1. Sedatives category now includes all sedatives instead of benzos only. 
+2. Psychostimulants category was expanded from amphetamines only.
+
+## Version 3.0.0 (2025-03)
+2024 annual data updated.
+The data format received from Hennepin Healthcare Research Institute changed from previous data extracts. This coincided with the Minnesota Electronic Health Record Consortium moving to OMOP Common Data Model. Changes were made to ingest, process, and display data from the new data format.  
+
+## Version 2.0.0 (2024-11)
+2024 year-to-date monthly data through September was added.
+
+## Version 1.0.0 (2024-08)
+2024 year-to-date monthly data through June was added.
