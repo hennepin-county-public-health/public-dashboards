@@ -2,6 +2,11 @@
 The Hepatitis B public dashboard was created using Power BI. It was launched in August 2021.
 
 # Changelog
+## Version 6.0.0 (2026-10-19)
+2025 annual data was added.
+Added a new page displaying HBV infection by country of birth (US born vs. Non-US born). 
+Added a new key trend bullet point re: the new page displaying table and graph of HBV infections by country of birth.
+
 ## Version 5.0.0 (2025-10-27)
 2024 annual data was added. Back end formatting changes to better display data suppressed due to low case counts.
 
