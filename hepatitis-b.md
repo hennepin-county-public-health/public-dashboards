@@ -2,6 +2,11 @@
 The Hepatitis B public dashboard was created using Power BI. It was launched in August 2021.
 
 # Changelog
+## Version 6.0.2 (2026-11-19)
+Made minimal changes to text boxes on home screen affecting focus indicator.
+Reworded sentences with embedded links to ensure links were at the end of sentences.
+Removed an unessential icon in the report pages menu on the home screen that did not meet color contrast standards.
+
 ## Version 6.0.1 (2026-11-06)
 Made updates to titles, alternative text, and data labels.
 
