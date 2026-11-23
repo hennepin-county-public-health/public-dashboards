@@ -1,19 +1,14 @@
 # Hepatitis C public dashboard
 The Hepatitis C public dashboard was created using Power BI. It was launched in August 2021.
 
-# Changelog
-## Version 6.0.2 (2026-11-19)
-Made minimal changes to text boxes on home screen affecting focus indicator.
-Reworded sentences with embedded links to ensure links were at the end of sentences.
-Removed an unessential icon in the report pages menu on the home screen that did not meet color contrast standards.
-
-## Version 6.0.1 (2026-11-06)
-Made updates to titles, alternative text, and data labels.
-
-## Version 6.0.0 (2026-10-07)
+## Version 6.0.0 (2026-11-19)
 2025 annual data was added. Back end formatting changes to better display data suppressed due to low case counts. 
 Changed some key trend information on the home page to better describe recent trends, such as the continued new case reports occurring primarily in persons <40 years of age, as well as acute case counts peaking in 2020 with a subsequent decline but have remained unchanged since 2023. 
 Removed the 2010 year from the Newly reported cases by age graph and table to now reflect only 2015, 2020, and 2025.
+Made updates to titles, alternative text, and data labels.
+Made minimal changes to text boxes on home screen affecting focus indicator.
+Reworded sentences with embedded links to ensure links were at the end of sentences.
+Removed an unessential icon in the report pages menu on the home screen that did not meet color contrast standards.
 
 ## Version 5.0.0 (2025-10-27)
 2024 annual data was added. Back end formatting changes to better display data suppressed due to low case counts.
