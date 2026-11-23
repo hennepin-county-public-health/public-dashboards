@@ -1,19 +1,14 @@
 # Hepatitis B public dashboard
 The Hepatitis B public dashboard was created using Power BI. It was launched in August 2021.
 
-# Changelog
-## Version 6.0.2 (2026-11-19)
-Made minimal changes to text boxes on home screen affecting focus indicator.
-Reworded sentences with embedded links to ensure links were at the end of sentences.
-Removed an unessential icon in the report pages menu on the home screen that did not meet color contrast standards.
-
-## Version 6.0.1 (2026-11-06)
-Made updates to titles, alternative text, and data labels.
-
-## Version 6.0.0 (2026-10-19)
+## Version 6.0.0 (2026-11-19)
 2025 annual data was added.
 Added a new page displaying HBV infection by country of birth (US born vs. Non-US born). 
 Added a new key trend bullet point re: the new page displaying table and graph of HBV infections by country of birth.
+Made updates to titles, alternative text, and data labels.
+Made minimal changes to text boxes on home screen affecting focus indicator.
+Reworded sentences with embedded links to ensure links were at the end of sentences.
+Removed an unessential icon in the report pages menu on the home screen that did not meet color contrast standards.
 
 ## Version 5.0.0 (2025-10-27)
 2024 annual data was added. Back end formatting changes to better display data suppressed due to low case counts.
